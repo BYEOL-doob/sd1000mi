@@ -1,0 +1,7 @@
+{
+  "name": "songdo-1000miso-site",
+  "private": true,
+  "type": "module",
+  "scripts": {"import:naver": "node scripts/import-naver.mjs"},
+  "dependencies": {"cheerio": "^1.0.0"}
+}
